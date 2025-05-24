@@ -1,0 +1,30 @@
+
+# Ignora el entorno virtual
+venv/
+
+# Archivos de configuración de PyCharm
+.idea/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Archivos de logs
+*.log
+
+# Datos generados automáticamente
+*.csv
+*.xls
+*.xlsx
+
+# Evita subir claves o variables locales (si usas)
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
