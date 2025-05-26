@@ -1,6 +1,7 @@
 
 # Ignora el entorno virtual
 venv/
+Data/DownloadedInfo
 
 # Archivos de configuración de PyCharm
 .idea/
